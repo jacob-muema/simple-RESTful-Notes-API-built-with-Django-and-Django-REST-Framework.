@@ -161,4 +161,4 @@ Let me know if you'd like me to:
 Just say the word 😎
 =======
 # simple-RESTful-Notes-API-built-with-Django-and-Django-REST-Framework.
->>>>>>> 00c216ddf41b7c39f0cd7d10aee172e72c41c7e9
+
